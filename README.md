@@ -4,7 +4,7 @@ slack-rtm-users-presence-tutorial
 ### Use case
 The Slack RTM(Real Time Messaging) API is especially useful when I want to receive a notification in real time when a user changes presence status, or others events are emitted. So, instead of long polling the API, and check if status changes say every 5 minutes, my app gets notified when an actual event happens. It may sound like a webhook; however, it is different in the sense that RTM API and clients leverage WebSockets, so the client keeps the WebSocket connection open.
 
-![List of events emitted by Slack API RTM](./images/slack_rtm_nodejs_sample_demo.gif "List of events emitted by Slack API RTM")
+<p align="center"><img src ="./images/slack_rtm_nodejs_sample_demo.gif" /></p>
 
 #### What do I need to get started?
 
