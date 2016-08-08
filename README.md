@@ -1,4 +1,4 @@
-slack-rtm-users-presence-tutorial
+slack-rtm-api-users-presence-tutorial
 ==================================
 
 ### Use case
